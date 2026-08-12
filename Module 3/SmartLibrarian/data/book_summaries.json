@@ -1,0 +1,122 @@
+[
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "themes": [
+      "dystopia",
+      "freedom",
+      "social control",
+      "surveillance",
+      "totalitarianism"
+    ],
+    "summary": "Winston Smith lives in a totalitarian society controlled by the Party and its symbolic leader, Big Brother. Citizens are constantly monitored, while history and truth are manipulated to preserve the regime's power. Winston begins to question the system and secretly longs for freedom. The novel explores surveillance, propaganda, individual freedom, and the dangers of totalitarian control."
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "themes": [
+      "fantasy",
+      "adventure",
+      "friendship",
+      "courage",
+      "dragons"
+    ],
+    "summary": "Bilbo Baggins enjoys a peaceful life until the wizard Gandalf invites him to join a group of dwarves on an unexpected adventure. Their goal is to reclaim a treasure guarded by the dragon Smaug. During the journey, Bilbo faces dangerous creatures and difficult choices. The experience helps him discover courage, resourcefulness, and a much greater sense of adventure."
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "themes": [
+      "magic",
+      "friendship",
+      "adventure",
+      "courage",
+      "identity"
+    ],
+    "summary": "Harry Potter discovers at the age of eleven that he is a wizard and begins studying at Hogwarts School of Witchcraft and Wizardry. There he becomes close friends with Ron Weasley and Hermione Granger and discovers a world filled with magic. During his first year, they investigate a mystery surrounding the Philosopher's Stone. The story explores friendship, courage, identity, and the importance of personal choices."
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "themes": [
+      "fantasy",
+      "heroism",
+      "friendship",
+      "sacrifice",
+      "good versus evil"
+    ],
+    "summary": "Frodo Baggins is given the responsibility of destroying the One Ring before the dark lord Sauron can use it to dominate Middle-earth. He begins a dangerous journey accompanied by friends and allies from different peoples. The quest tests their courage, loyalty, and willingness to sacrifice for others. The story explores friendship, power, temptation, heroism, and the struggle between good and evil."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "themes": [
+      "justice",
+      "prejudice",
+      "empathy",
+      "family",
+      "growing up"
+    ],
+    "summary": "Scout Finch grows up in a small Southern town while her father, lawyer Atticus Finch, defends a Black man who has been falsely accused of a serious crime. The trial exposes deep prejudice and injustice within the community. Through these experiences, Scout begins to understand the complexity of the adult world. The novel explores justice, empathy, morality, prejudice, and growing up."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "themes": [
+      "romance",
+      "love",
+      "society",
+      "family",
+      "prejudice"
+    ],
+    "summary": "Elizabeth Bennet meets the wealthy and reserved Fitzwilliam Darcy in a society where marriage and social status strongly influence people's lives. Their relationship begins with misunderstandings, pride, and prejudice on both sides. As they learn more about one another, their opinions gradually change. The novel explores love, family, social expectations, personal growth, and the danger of judging people too quickly."
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "themes": [
+      "destiny",
+      "dreams",
+      "journey",
+      "self-discovery",
+      "personal growth"
+    ],
+    "summary": "Santiago, a young shepherd from Spain, follows a recurring dream that leads him on a journey in search of a hidden treasure. Along the way, he meets people who teach him important lessons about courage, purpose, and following his dreams. His journey gradually becomes as important as the treasure itself. The novel explores destiny, perseverance, self-discovery, and the pursuit of one's personal calling."
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "themes": [
+      "science fiction",
+      "politics",
+      "power",
+      "ecology",
+      "destiny"
+    ],
+    "summary": "Paul Atreides and his family move to the desert planet Arrakis, the only source of the most valuable substance in the universe. Political betrayal soon forces Paul into the dangerous desert, where he encounters the Fremen people and begins to understand their culture. His growing influence changes the balance of power around him. The novel combines science fiction with themes of politics, ecology, religion, leadership, and destiny."
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "themes": [
+      "adolescence",
+      "identity",
+      "isolation",
+      "growing up",
+      "alienation"
+    ],
+    "summary": "Holden Caulfield recounts several days of his life after being expelled from another school. Instead of returning home immediately, he wanders through New York City and reflects on the people and society around him. He struggles with loneliness, change, and what he sees as the artificial nature of the adult world. The novel explores adolescence, identity, isolation, grief, and the difficulty of growing up."
+  },
+  {
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "themes": [
+      "friendship",
+      "love",
+      "childhood",
+      "philosophy",
+      "human connection"
+    ],
+    "summary": "A pilot stranded in the desert meets a mysterious young prince who has travelled from another planet. The Little Prince tells him about the places he has visited and the unusual people he has encountered. His relationship with his rose and his friendship with a fox teach him important lessons about love and responsibility. The story explores friendship, childhood, human connection, and what truly matters in life."
+  }
+]

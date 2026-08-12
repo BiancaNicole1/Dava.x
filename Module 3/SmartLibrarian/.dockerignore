@@ -1,0 +1,8 @@
+.git
+.gitignore
+.env
+__pycache__
+*.pyc
+chroma_db
+generated_images
+generated_audio
